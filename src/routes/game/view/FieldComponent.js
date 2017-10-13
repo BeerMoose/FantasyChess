@@ -4,8 +4,29 @@ import CellComponent from '../view/CellComponent';
 
 
 class FieldComponent extends Component {
+
+  constructor () {
+    super();
+    this.state = {
+      field: []
+    };
+
+    this.clickHandler = this.clickHandler.bind(this);
+  }
+
+  componentWillMount () {
+    this.setState({
+      field: this.props.field || []
+    });
+  }
+
+  clickHandler (line, cellIndex) {
+    this.state.field.clickHandler(line, cellIndex);
+    this.forceUpdate();
+  }
+
   render () {
-    const field = this.props.field;
+    const field = this.state.field;
     return (
       <div className='field-content'>
         {
@@ -13,7 +34,7 @@ class FieldComponent extends Component {
             (
               <div className='line-class' key={Math.random() * 124234234}>
                 {
-                  line.map((cell) => <CellComponent cell={cell} key={'cell-component-key' + parseInt(Math.random() * 1234567, 10)} />)
+                  line.map((cell) => <CellComponent clickHandler={this.clickHandler} cell={cell} key={'cell-component-key' + parseInt(Math.random() * 1234567, 10)} />)
                 }
               </div>
             )
