@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { reactLocalStorage } from 'reactjs-localstorage';
-import FieldComponent from './field/FieldComponent';
+import FieldComponent from './components/field/FieldComponent';
+import Field from './components/field/Field';
 import './game.css';
 
 class GameComponent extends Component {
@@ -9,6 +10,7 @@ class GameComponent extends Component {
   }
 
   render () {
+    const field = new Field(8);
     return (
       <div className='game-content'>
         <div className='game-header'>
@@ -17,7 +19,7 @@ class GameComponent extends Component {
           </div>
         </div>
         <div className='game-body'>
-          <FieldComponent size={8} />
+          <FieldComponent field={field} />
         </div>
       </div>
 
