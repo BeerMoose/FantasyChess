@@ -1,0 +1,17 @@
+.cell-container {
+    height: 60px;
+    width: 50px;
+    background: greenyellow;
+    border: 1px solid black;
+    overflow: hidden;
+    cursor: pointer;
+    visibility: hidden;
+}
+
+.cell-inside {
+    transform: rotate(52deg) skewY(-28deg) skewX(-10deg);
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    visibility: visible;
+}

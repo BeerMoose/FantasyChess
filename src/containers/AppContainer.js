@@ -2,7 +2,7 @@ import React from 'react';
 import { Router, Route, hashHistory } from 'react-router';
 import WikiComponent from '../routes/wiki/WikiComponent';
 import WelcomeComponent from '../routes/welcome/WelcomeComponent';
-import GameComponent from '../routes/game/GameComponent';
+import GameComponent from '../routes/game/view/GameComponent';
 
 const AppContainer = () => (
   <Router history={hashHistory}>

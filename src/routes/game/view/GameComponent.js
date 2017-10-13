@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { reactLocalStorage } from 'reactjs-localstorage';
-import FieldComponent from './components/field/FieldComponent';
-import Field from './components/field/Field';
-import './game.css';
+import FieldComponent from '../view/FieldComponent';
+import Field from '../controllers/Field';
+import '../view/styles/game.css';
 
 class GameComponent extends Component {
   getUserName () {

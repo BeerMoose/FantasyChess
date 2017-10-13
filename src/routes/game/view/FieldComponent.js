@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import './field.css';
-import CellComponent from '../cell/CellComponent';
+import '../view/styles/field.css';
+import CellComponent from '../view/CellComponent';
 
 
 class FieldComponent extends Component {

@@ -1,6 +1,7 @@
 .line-class {
   display: flex;
   justify-content: center;
+  margin-top: -22px
 }
 
 .cell-class {
