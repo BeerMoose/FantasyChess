@@ -8,6 +8,7 @@ class Field {
     this.size = size;
     this.matrix = [];
     this.generateMatrix();
+    this.lastSelectedCellWithUnit = null;
   }
 
   generateMatrix () {
@@ -29,17 +30,46 @@ class Field {
       new Unit(unitsStore[2]),
       new Unit(unitsStore[3])
     ];
-    this.matrix[3][3].unit = units[0];
+    this.matrix[0][0].unit = units[0];
     this.matrix[7][7].unit = units[1];
     this.matrix[6][7].unit = units[2];
     this.matrix[9][3].unit = units[3];
   }
 
   clickHandler (line, cellIndex) {
-    if (this.matrix[line][cellIndex].unit) {
-      this.showAvailableMove(line, cellIndex);
+    let cell = this.matrix[line][cellIndex];
+    if (cell.unit) {
+      this.clearAvailableMove();
+      this.selectUnit(line, cellIndex);
+    } else {
+      if (cell.availableForMove) {
+        this.makeMove(line, cellIndex);
+      }
+      this.clearAvailableMove();
     }
   }
+
+  makeMove (line, cellIndex) {
+    let cell = this.matrix[line][cellIndex];
+    if (cell.availableForMove) {
+      cell.unit = this.lastSelectedCellWithUnit.unit;
+      this.lastSelectedCellWithUnit.unit = null;
+    }
+  }
+
+  clearAvailableMove () {
+    for (let line = 0; line < this.matrix.length; line++) {
+      for (let cellIndex = 0; cellIndex < this.matrix[line].length; cellIndex++) {
+        this.matrix[line][cellIndex].availableForMove = false;
+      }
+    }
+  }
+
+  selectUnit (line, cellIndex) {
+    this.lastSelectedCellWithUnit = this.matrix[line][cellIndex];
+    this.showAvailableMove(line, cellIndex);
+  }
+
   inMatrixRange (line, i, j) {
     return !(i < 0 || j < 0 || i >= this.matrix.length || j >= this.matrix[line].length);
   }
