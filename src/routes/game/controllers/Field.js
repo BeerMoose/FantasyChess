@@ -1,39 +1,23 @@
 import Cell from './Cell';
-import unitsStore from '../store/units';
-import Unit from './Unit';
-
 
 class Field {
-  constructor (size) {
-    this.size = size;
+  constructor (numberCellOfFirstLine, numberOfLines) {
+    this.numberCellOfFirstLine = numberCellOfFirstLine;
+    this.numberOfLines = numberOfLines;
     this.matrix = [];
     this.generateMatrix();
     this.lastSelectedCellWithUnit = null;
   }
 
   generateMatrix () {
-    let numberOfLines = 2 * this.size - 1;
+    let numberOfLines = this.numberOfLines || 2 * this.numberCellOfFirstLine - 1;
     for (let line = 0; line < numberOfLines; line++) {
       this.matrix[line] = [];
-      let numOfCellInThisLine = numberOfLines - Math.abs(line - this.size + 1);
+      let numOfCellInThisLine = Math.max(this.numberCellOfFirstLine, numberOfLines - Math.abs(line - this.numberCellOfFirstLine + 1));
       for (let cellIndex = 0; cellIndex < numOfCellInThisLine; cellIndex++) {
         this.matrix[line][cellIndex] = new Cell(line, cellIndex);
       }
     }
-    this.generateUnits();
-  }
-
-  generateUnits () {
-    let units = [
-      new Unit(unitsStore[0]),
-      new Unit(unitsStore[1]),
-      new Unit(unitsStore[2]),
-      new Unit(unitsStore[3])
-    ];
-    this.matrix[0][0].unit = units[0];
-    this.matrix[7][7].unit = units[1];
-    this.matrix[6][7].unit = units[2];
-    this.matrix[9][3].unit = units[3];
   }
 
   clickHandler (line, cellIndex) {
@@ -70,8 +54,8 @@ class Field {
     this.showAvailableMove(line, cellIndex);
   }
 
-  inMatrixRange (line, i, j) {
-    return !(i < 0 || j < 0 || i >= this.matrix.length || j >= this.matrix[line].length);
+  inMatrixRange (i, j) {
+    return !(i < 0 || j < 0 || i >= this.matrix.length || j >= this.matrix[i].length || j >= this.matrix[i].length);
   }
 
   generateDirections (line) {
@@ -81,9 +65,9 @@ class Field {
       [-1, 0],
       [1, 0]
     ];
-    if (line === this.size - 1) {
+    if (line === this.numberCellOfFirstLine - 1) {
       directions.push([-1, -1], [1, -1]);
-    } else if (line < this.size - 1) {
+    } else if (line < this.numberCellOfFirstLine - 1) {
       directions.push([-1, -1], [1, 1]);
     } else {
       directions.push([-1, 1], [1, -1]);
@@ -96,7 +80,7 @@ class Field {
     directions.forEach((direction) => {
       let i = line + direction[0];
       let j = cellIndex + direction[1];
-      if (this.inMatrixRange(line, i, j) && this.matrix[i][j].canMove()) {
+      if (this.inMatrixRange(i, j) && this.matrix[i][j].canMove()) {
         this.matrix[i][j].availableForMove = true;
       }
     });
