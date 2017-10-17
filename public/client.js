@@ -1,12 +1,9 @@
-
 let myColor = false;
 const myName = false;
 
 window.WebSocket = window.WebSocket || window.MozWebSocket;
-
 if (!window.WebSocket) console.log('Sorry, but your browser doesnt support WebSockets');
-
-const connection = new WebSocket('ws://172.17.31.17:1337');
+const connection = new WebSocket('ws://localhost:1337');
 
 connection.onmessage = (message) => {
   try {
@@ -16,7 +13,7 @@ connection.onmessage = (message) => {
     } else if (json.type === 'history') {
       console.log('history: ', json.data);
     } else if (json.type === 'message') {
-      console.log('message: ', json.data);
+      console.log('message: ', JSON.parse(json.data.text).data);
     } else {
       console.log('unknown json-data type', json);
     }
@@ -28,10 +25,19 @@ connection.onmessage = (message) => {
 setInterval(() => {
   console.log(myColor, myName);
   if (connection.readyState !== 1) {
-    console.log('Unable to comminucate with the WebSocket server');
+  console.log('Unable to comminucate with the WebSocket server');
   }
 }, 10 * 1000);
 
+sendObject = (obj) => {
+  let json = JSON.stringify(obj);
+  connection.send(obj);
+}
+
 let sendStuff = () => {
-  connection.send('{"test": true, "msg": "some sample" }');
+  let obj = JSON.stringify({
+    "type": "message",
+    "data": "This is a sample message"
+  })
+  connection.send(obj);
 };
