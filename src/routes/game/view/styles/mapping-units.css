@@ -54,3 +54,29 @@
   border-radius: 7px;
   margin-top: 2%;
 }
+
+.prepare-container {
+  display: flex;
+  justify-content: space-between;;
+}
+
+.prepare-container-right {
+  background: #fff;
+  padding: 20px;
+  color: black;
+  border-radius: 5%;
+  margin-right: 15%;
+}
+
+.units-info-stats {
+  display: flex;
+  justify-content: space-around;
+}
+
+.units-info-stats img {
+  width: 20px;
+}
+
+.units-info-pict img{
+  width: 100px;
+}

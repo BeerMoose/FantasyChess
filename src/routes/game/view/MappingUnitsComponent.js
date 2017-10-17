@@ -9,10 +9,11 @@ class MappingUnitsComponent extends Component {
     super();
     this.state = {
       classId: 0,
-      selectedUnit: -1
+      selectedUnit: null
     };
     this.field = [];
     this.clickOnCell = this.clickOnCell.bind(this);
+    this.createUnitsField = this.createUnitsField.bind(this);
     this.readyToGoClick = null;
   }
 
@@ -32,10 +33,10 @@ class MappingUnitsComponent extends Component {
   }
 
   clickOnCell (line, cellIndex) {
-    if (!this.field.matrix[line][cellIndex].unit && this.state.selectedUnit !== -1) {
+    if (!this.field.matrix[line][cellIndex].unit && this.state.selectedUnit) {
       this.field.matrix[line][cellIndex].unit = this.state.selectedUnit;
       this.setState({
-        selectedUnit: -1
+        selectedUnit: null
       });
     }
   }
@@ -82,21 +83,64 @@ class MappingUnitsComponent extends Component {
     );
   }
 
+  createUnitsField () {
+    return (
+      <div className='prepare-field-container'>
+        {
+          this.field.matrix[0].map((cell) =>
+            <CellComponent clickHandler={this.clickOnCell}
+              key={'prepare-field-cell-' + parseInt(Math.random() * 100000, 10)}
+              cell={cell} />)
+        }
+      </div>
+    );
+  }
+
+  createUnitsInfo () {
+    let unit = this.state.selectedUnit;
+    if (!unit) {
+      return '';
+    }
+    console.log(unit);
+    return (
+      <div className='units-info-container'>
+        <div className='units-info-pict'>
+          <img src={unit.pictUrl} />
+        </div>
+        <div className='units-info-class'>
+          {classes[unit.class]}
+        </div>
+        <div className='units-info-stats'>
+          <div className='units-info-stats-hp'>
+            <img src='styles/images/sword.svg' alt='' />
+            {unit.hp}
+          </div>
+          <div className='units-info-stats-def'>
+            <img src='styles/images/shield.svg' alt='' />
+            {unit.def}
+          </div>
+        </div>
+      </div>
+    );
+  }
+
   render () {
     return (
       <div className='prepare-container'>
-        <div className='prepare-field-container'>
-          {
-            this.field.matrix[0].map((cell) =>
-              <CellComponent clickHandler={this.clickOnCell}
-                key={'prepare-field-cell-' + parseInt(Math.random() * 100000, 10)}
-                cell={cell} />)
-          }
+        <div className='prepare-container-left'>
+          {this.createUnitsField()}
+          {this.createUnitsSelecter(units.filter((unit) => unit.class === this.state.classId))}
+          <button className='ready-to-go-button' onClick={(e) => this.readyToGoClick(this.field)}>
+            Ready to war
+          </button>
         </div>
-        {this.createUnitsSelecter(units.filter((unit) => unit.class === this.state.classId))}
-        <button className='ready-to-go-button' onClick={(e) => this.readyToGoClick(this.field)}>
-          Ready to war
-        </button>
+        {
+          (this.state.selectedUnit) ? (
+            <div className='prepare-container-right'>
+              {this.createUnitsInfo()}
+            </div>
+          ) : ''
+        }
       </div>
     );
   }
