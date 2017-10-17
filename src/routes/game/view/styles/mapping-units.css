@@ -1,0 +1,56 @@
+.prepare-field-container {
+  display: flex;
+}
+
+.unit-names {
+  display: flex;
+}
+
+.unit-class {
+  margin-top: 5%;
+  cursor: pointer;
+  padding: 10px 30px;
+  background: white;
+  color: black;
+  border: 1px solid black;
+}
+
+.unit-class.active {
+  background: #bbb;
+}
+
+.units-container {
+  margin-top: 1%;
+  display: flex;
+}
+
+.unit-data {
+  width: 80px;
+  border-radius: 15px;
+  background: white;
+  margin-right: 1%;
+  cursor: pointer;
+}
+
+.unit-data.active{
+  background: #C6EFFF;
+}
+
+.unit-pict img{
+  width: 80px;
+  height: 80px;
+}
+
+.unit-name {
+  color: black;
+  text-align: center;
+}
+
+.ready-to-go-button {
+  background: white;
+  border: none;
+  padding: 11px;
+  font-size: 16px;
+  border-radius: 7px;
+  margin-top: 2%;
+}

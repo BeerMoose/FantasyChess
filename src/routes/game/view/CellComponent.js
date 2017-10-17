@@ -27,13 +27,13 @@ class CellComponent extends Component {
   generateStyleForContainer () {
     let style = {};
     let cell = this.state.cell;
-    style.background = (cell.availableForMove) ? 'yellow' : '#798A8A';
+    style.background = (cell.availableForMove) ? '#DDEADD' : '#798A8A';
     return style;
   }
 
   getUrlToPict () {
     let cell = this.state.cell;
-    return (cell.unit) ? cell.unit.data.pictUrl : '';
+    return (cell.unit) ? cell.unit.pictUrl : '';
   }
 
   render () {

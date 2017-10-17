@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="480"
+   height="480"
+   id="svg1880"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   version="1.0"
+   sodipodi:docbase="/home/user/My Documents/My Pictures"
+   sodipodi:docname="fire_tribal.svg"
+   inkscape:export-filename="/home/user/My Documents/My Pictures/fire_tribal.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs1882">
+    <linearGradient
+       id="linearGradient10815">
+      <stop
+         id="stop10817"
+         offset="0"
+         style="stop-color:#ffc729;stop-opacity:1;" />
+      <stop
+         id="stop10819"
+         offset="1"
+         style="stop-color:#fa3d00;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9912">
+      <stop
+         style="stop-color:#ff2929;stop-opacity:1;"
+         offset="0"
+         id="stop9914" />
+      <stop
+         style="stop-color:#fa2e00;stop-opacity:1;"
+         offset="1"
+         id="stop9916" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2785">
+      <stop
+         style="stop-color:#29cbff;stop-opacity:1;"
+         offset="0"
+         id="stop2787" />
+      <stop
+         style="stop-color:#5eecff;stop-opacity:0;"
+         offset="1"
+         id="stop2789" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2785"
+       id="radialGradient4566"
+       cx="555.82635"
+       cy="237.0471"
+       fx="555.82635"
+       fy="237.0471"
+       r="135.87247"
+       gradientTransform="matrix(0.69232,-0.324523,0.996466,2.125807,-59.59535,-56.6055)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9912"
+       id="radialGradient9920"
+       cx="396.06729"
+       cy="231.21336"
+       fx="396.06729"
+       fy="231.21336"
+       r="220.81339"
+       gradientTransform="matrix(-0.62605,0.779784,-0.546126,-0.438459,611.2778,16.59811)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10815"
+       id="radialGradient10813"
+       cx="391.04153"
+       cy="225.80333"
+       fx="391.04153"
+       fy="225.80333"
+       r="180.9566"
+       gradientTransform="matrix(-0.62605,0.779784,-0.619452,-0.49733,629.0993,30.90619)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="black"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.40204442"
+     inkscape:cx="482.4505"
+     inkscape:cy="247.04587"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="480px"
+     height="480px"
+     inkscape:window-width="906"
+     inkscape:window-height="613"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata1885">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Fire tribal</dc:title>
+        <dc:date>2009-01-29</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Damian Adrian</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>fire</rdf:li>
+            <rdf:li>tribal</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>A red and orange &quot;fire&quot; tribal.</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#radialGradient9920);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 245.56093,460.48636 C 326.6542,355.06207 427.45847,234.24145 351.72179,128.86105 C 373.16893,322.58164 197.51354,210.63073 396.6704,69.047563 C 271.07867,132.42761 288.30818,25.636938 339.36993,39.797259 C 289.74774,24.945895 241.46126,43.546699 204.4903,75.309895 C 315.13389,19.64606 293.08341,95.574435 220.45958,175.60426 C 274.01392,159.88646 284.57926,211.25872 253.30144,240.10049 C 219.89374,270.90624 178.4064,234.08925 207.48824,181.79777 C 147.80229,230.53293 75.102984,241.68476 149.95348,85.610177 C 117.23506,124.3404 67.495531,220.36853 89.685122,321.98354 C 114.02298,159.59843 304.37519,301.14986 83.598475,384.04305 C 105.05004,382.0425 160.43749,378.73081 227.26143,314.40414 C 258.58144,289.5536 271.01864,298.75401 206.755,415.32305 C 307.64676,258.17816 367.85312,287.29221 245.56093,460.48636 z "
+       id="path6366"
+       sodipodi:nodetypes="ccccccsccccccc" />
+    <path
+       style="fill:url(#radialGradient10813);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 292.66434,393.05045 C 322.28781,349.735 401.8618,244.22384 359.89769,154.30504 C 370.69104,326.07976 197.45768,207.2508 362.14073,90.072235 C 278.96624,108.74205 286.1155,66.373791 305.96216,40.889887 C 288.39161,39.866733 268.69191,43.775945 243.35693,53.631948 C 334.47764,27.501614 260.22354,155.82401 234.18037,169.89241 C 308.63774,155.98071 277.90125,264.99202 217.86695,260.3987 C 206.95635,259.56391 178.74763,230.40212 197.61896,194.348 C 171.30371,218.11588 84.657212,263.9438 120.76511,147.93113 C 95.114998,190.87872 90.618678,237.84687 92.880352,281.82785 C 132.80372,170.98455 280.02388,290.13014 132.42543,365.68609 C 156.60438,358.43494 159.79076,366.95127 226.6147,302.62459 C 232.45596,299.71773 291.87737,260.75581 241.7116,358.11165 C 336.71253,245.06223 329.30392,341.16892 292.66434,393.05045 z "
+       id="path8139"
+       sodipodi:nodetypes="ccccccsccccccc" />
+  </g>
+</svg>

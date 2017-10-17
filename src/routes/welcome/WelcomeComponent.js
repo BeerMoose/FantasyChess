@@ -27,11 +27,6 @@ class WelcomeComponent extends Component {
   render () {
     return (
       <div className='welcome-content'>
-        <div className='welcome-header'>
-          <div className='welcome-logo'>
-            <h1>Fantasy Chess</h1>
-          </div>
-        </div>
         <div className='welcome-body'>
           <input value={this.state.inputValue} onChange={(e) => this.updateValue(e)} />
           <Link to='/game'>

@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3072"
+   sodipodi:version="0.32"
+   inkscape:version="0.46dev+devel"
+   width="677.08997"
+   height="606.83368"
+   sodipodi:docbase="/home/peterm/afbeeldingen/svg"
+   sodipodi:docname="PeterM_Dragon.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="C:\joanna\Gfx\drawings_vector\admin\thumbs\PeterM_Dragon.png"
+   inkscape:export-xdpi="29.641556"
+   inkscape:export-ydpi="29.641556">
+  <metadata
+     id="metadata3077">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3075" />
+  <sodipodi:namedview
+     inkscape:window-height="732"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.4950767"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.18109"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:current-layer="svg3072"
+     showgrid="false" />
+  <g
+     id="g1919"
+     inkscape:export-filename="/home/peterm/afbeeldingen/svg/dragon.png"
+     inkscape:export-xdpi="60.064171"
+     inkscape:export-ydpi="60.064171"
+     transform="translate(-28.13792,-16.651957)">
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="ccccccccccccc"
+       id="path2249"
+       d="M 396.94859,192.28775 C 368.54389,186.49552 321.78188,217.44452 311.73451,174.91106 C 294.70256,207.25125 227.80031,190.49441 226.52042,157.5343 C 201.2314,191.30494 93.24938,167.72834 123.36019,148.95484 C 98.66488,108.10563 -23.847211,270.49457 53.320382,265.46907 C 23.11031,245.29476 99.11505,237.437 108.37022,276.6948 C 136.39387,251.2672 187.06377,263.15689 193.58429,294.07148 C 219.23132,258.81674 287.64179,275.88104 278.79838,311.44825 C 288.49484,263.59822 352.53308,292.22781 364.01246,328.82493 C 366.75714,317.44686 369.50182,306.06871 372.24649,294.69064 C 374.99117,283.31256 377.73585,271.93441 380.48053,260.55634 C 383.2252,249.17827 385.96988,237.80012 388.71456,226.42204 C 391.45924,215.04397 394.20391,203.66582 396.94859,192.28775 z"
+       style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="ccccccc"
+       id="path2251"
+       d="M 393.89732,209.06968 C 365.49262,203.27745 318.73061,234.22654 308.68324,191.693 C 291.65129,224.03319 224.74904,207.27643 223.46915,174.31623 C 198.18013,208.08695 77.993038,181.45908 108.10385,162.68551 C -49.502205,196.07849 352.8265,268.20841 377.42926,277.33828 C 380.17393,265.9602 382.91861,254.58213 385.66329,243.20398 C 388.40797,231.82591 391.15264,220.44783 393.89732,209.06968 z"
+       style="fill:#00aa00;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="ccccccccccccc"
+       id="path2253"
+       d="M 336.4172,188.01673 C 364.8219,182.2245 411.5839,213.1735 421.63127,170.63996 C 438.66323,202.98023 505.56547,186.22339 506.84536,153.26328 C 532.13438,187.03392 640.1164,163.45732 610.00559,144.68382 C 634.7009,103.83461 757.213,266.22355 680.04539,261.19805 C 710.25544,241.02374 634.25073,233.16598 624.99556,272.42378 C 596.97192,246.99618 546.30201,258.88587 539.78149,289.80046 C 514.13446,254.54572 445.724,271.61002 454.5674,307.17723 C 444.87095,259.3272 380.83271,287.95678 369.35332,324.55391 C 366.60864,313.17584 363.86396,301.79769 361.11929,290.41962 C 358.37461,279.04154 355.62993,267.66339 352.88526,256.28532 C 350.14058,244.90725 347.39591,233.5291 344.65123,222.15102 C 341.90655,210.77295 339.16188,199.3948 336.4172,188.01673 z"
+       style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="ccccccc"
+       id="path2255"
+       d="M 336.69034,204.81552 C 365.09504,199.02329 411.85705,229.9723 421.90441,187.43883 C 438.93637,219.77903 505.83862,203.02226 507.11851,170.06207 C 532.40753,203.83279 652.59462,177.20484 622.4838,158.43135 C 780.08986,191.82433 377.76115,263.95425 353.1584,273.08411 C 350.41373,261.70604 347.66905,250.32789 344.92437,238.94982 C 342.17969,227.57174 339.43502,216.19359 336.69034,204.81552 z"
+       style="fill:#00aa00;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       y="283.64853"
+       x="330.01709"
+       height="83.147102"
+       width="71.704803"
+       id="rect2257"
+       style="fill:#17280b;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cccc"
+       id="path2259"
+       d="M 347.01114,340.67597 L 354.57142,367.50438 L 339.64183,367.73409 L 347.01114,340.67597 z"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cccc"
+       id="path2261"
+       d="M 357.4447,345.49217 L 365.00498,372.32057 L 350.07537,372.55028 L 357.4447,345.49217 z"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cccc"
+       id="path2263"
+       d="M 367.69316,340.09824 L 375.25345,366.92664 L 360.32385,367.15635 L 367.69316,340.09824 z"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cccc"
+       id="path2265"
+       d="M 379.55981,344.95277 L 387.12009,371.78117 L 372.1905,372.01088 L 379.55981,344.95277 z"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cccc"
+       id="path2267"
+       d="M 398.7162,342.88769 L 406.27648,369.7161 L 391.34688,369.94589 L 398.7162,342.88769 z"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cccc"
+       id="path2269"
+       d="M 340.58463,344.80943 L 348.14491,371.63784 L 333.21531,371.86762 L 340.58463,344.80943 z"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cccc"
+       id="path2271"
+       d="M 391.42647,343.33457 L 398.98675,370.16297 L 384.05715,370.39276 L 391.42647,343.33457 z"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccc"
+       id="path2273"
+       d="M 286.11016,235.94243 L 193.67769,249.45632 L 278.77888,210.93099 L 186.28325,197.85596 L 278.79101,184.86731 L 193.72567,146.26246 L 286.14555,159.86272 L 215.40202,98.85576 L 300.24671,137.94304 L 249.55619,59.476406 L 319.95207,120.88413 L 293.42121,31.314626 L 343.66525,110.06794 L 343.44341,16.651957 L 369.46513,106.37073 L 395.57028,16.676283 L 395.26155,110.09203 L 445.57884,31.385679 L 418.96466,120.9304 L 489.41764,59.588413 L 438.65415,138.00771 L 523.53515,98.99963 L 452.7349,159.94047 L 545.16739,146.42658 L 460.0662,184.95191 L 552.56183,198.02701 L 460.05408,211.01567 L 545.1194,249.62044 L 452.69952,236.02025 L 286.11016,235.94243 z"
+       style="fill:#165016;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cccccccccc"
+       id="path2275"
+       d="M 318.68744,168.41608 L 292.15657,78.846574 L 342.40062,157.59988 L 342.17878,64.183906 L 368.20049,153.90267 L 394.30565,64.208231 L 393.99692,157.62398 L 444.3142,78.917627 L 417.70003,168.46234 L 318.68744,168.41608 z"
+       style="fill:#71c837;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path2277"
+       d="M 369.49289,247.20304 C 354.32268,247.20304 339.16038,250.96782 335.33485,258.51554 C 320.20862,288.3594 320.20862,363.51541 335.33485,393.35929 C 342.98591,408.45474 396.02732,408.45472 403.67839,393.35929 C 418.80462,363.51543 418.80462,288.35941 403.67839,258.51554 C 399.85286,250.96781 384.66311,247.20304 369.49289,247.20304 z M 368.99864,263.57804 C 379.99607,263.57804 390.9927,266.34151 393.76597,271.85929 C 404.73152,293.6767 404.73152,348.6044 393.76597,370.42179 C 388.21944,381.45738 349.77786,381.45735 344.23132,370.42179 C 333.26578,348.60443 333.26578,293.67669 344.23132,271.85929 C 347.00459,266.34152 358.00121,263.57804 368.99864,263.57804 z"
+       style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       style="stroke:none;stroke-width:6.01322699;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.769803,0,0,0.769803,575.0507,-862.4643)"
+       id="g2279">
+      <path
+         style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:6.01322699;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -295.81801,1930.2963 C -296.20049,1930.3049 -296.59219,1930.2923 -296.98232,1930.2619 C -299.16696,1930.0915 -301.47093,1929.3005 -303.9035,1927.813 C -295.9849,1912.6508 -296.33484,1878.7091 -296.76239,1842.4161 C -300.09586,1848.3949 -304.3541,1851.3557 -309.82854,1848.3828 C -302.49822,1835.9161 -308.4755,1796.605 -304.83494,1771.2288 C -307.47004,1773.3434 -310.47738,1773.6415 -313.92949,1771.4358 C -307.8873,1759.3457 -310.05894,1727.7899 -309.85441,1698.9034 C -310.90607,1690.4034 -311.69441,1681.9494 -312.05366,1673.6567 C -318.5584,1677.2453 -324.55772,1674.6875 -327.33198,1657.2395 C -318.55926,1659.2043 -307.07583,1615.677 -295.48166,1599.4344 C -295.21609,1564.9654 -292.77444,1532.834 -281.09596,1517.1759 C -273.99735,1535.4208 -275.21796,1535.6442 -267.02075,1564.7031 C -259.46478,1537.704 -260.49193,1537.1487 -253.56651,1519.3488 C -244.60864,1531.3592 -241.09318,1553.0705 -239.81473,1578.0852 C -238.90274,1576.9494 -237.80704,1575.6763 -236.33474,1574.0498 C -208.66178,1589.9965 -232.84337,1645.6504 -214.98906,1660.3436 C -221.03915,1661.9336 -226.29373,1661.6636 -230.87541,1660.0677 C -211.50252,1685.5483 -234.48313,1736.9998 -212.53108,1752.0179 C -224.24932,1754.5779 -233.86524,1753.0542 -241.79405,1749.0173 C -242.22866,1785.9416 -242.71978,1820.7078 -234.67883,1836.1043 C -239.64666,1839.1419 -244.07789,1839.2473 -248.04251,1837.139 C -246.86295,1860.0952 -252.2616,1886.7593 -240.42275,1896.5307 C -253.32864,1899.9321 -262.87791,1895.397 -270.00916,1887.4599 C -275.76673,1911.2251 -283.96114,1930.0296 -295.81801,1930.2963 z"
+         id="path2281"
+         inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+         inkscape:export-xdpi="43.801006"
+         inkscape:export-ydpi="43.801006" />
+      <path
+         style="fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:6.01322699;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -243.63942,1868.977 C -243.32545,1868.9845 -243.0039,1868.9734 -242.68362,1868.9468 C -240.89023,1868.7982 -238.99888,1868.1076 -237.00194,1866.8092 C -243.50242,1853.5737 -243.21515,1823.9449 -242.86417,1792.2636 C -240.12768,1797.4828 -236.63204,1800.0674 -232.138,1797.4722 C -238.15556,1786.5897 -233.24872,1752.2738 -236.23731,1730.1222 C -234.07413,1731.9681 -231.60536,1732.2284 -228.77148,1730.3029 C -233.73158,1719.7492 -231.94886,1692.2032 -232.11676,1666.9873 C -231.25344,1659.5674 -230.60628,1652.1877 -230.31136,1644.9488 C -224.97155,1648.0814 -220.04662,1645.8485 -217.76919,1630.6177 C -224.97084,1632.3328 -234.39773,1594.3365 -243.91554,1580.158 C -244.13355,1550.069 -246.13794,1522.0205 -255.72495,1508.3522 C -261.55229,1524.2787 -260.55027,1524.4737 -267.27947,1549.84 C -273.48227,1526.2717 -272.63906,1525.7868 -278.32423,1510.2489 C -285.67787,1520.7331 -288.56375,1539.6856 -289.61324,1561.5216 C -290.3619,1560.5302 -291.26138,1559.4188 -292.47002,1557.999 C -315.1871,1571.9193 -295.33613,1620.5012 -309.99296,1633.3274 C -305.02636,1634.7152 -300.71282,1634.4796 -296.95165,1633.0865 C -312.85511,1655.3293 -293.99002,1700.2428 -312.01075,1713.3525 C -302.3911,1715.5871 -294.49726,1714.2572 -287.9884,1710.7331 C -287.63163,1742.9655 -287.22846,1773.314 -293.82938,1786.754 C -289.75123,1789.4055 -286.11356,1789.4976 -282.85895,1787.6573 C -283.82727,1807.6963 -279.39544,1830.9722 -289.11411,1839.5019 C -278.51951,1842.4711 -270.68038,1838.5124 -264.82625,1831.5838 C -260.09978,1852.3291 -253.3729,1868.7441 -243.63942,1868.977 z"
+         id="path2283"
+         inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+         inkscape:export-xdpi="43.801006"
+         inkscape:export-ydpi="43.801006" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:6.01322699;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -279.85665,1718.0531 C -279.99737,1718.0574 -280.1415,1718.0511 -280.28504,1718.0357 C -281.08883,1717.9502 -281.93653,1717.5529 -282.83154,1716.8057 C -279.91805,1709.1897 -280.04682,1692.1404 -280.20413,1673.9101 C -281.4306,1676.9134 -282.99733,1678.4007 -285.01154,1676.9073 C -282.3145,1670.6452 -284.51371,1650.899 -283.17425,1638.1523 C -284.14378,1639.2145 -285.25028,1639.3643 -286.5204,1638.2563 C -284.29731,1632.1834 -285.09632,1616.3327 -285.02106,1601.8228 C -285.40801,1597.5531 -285.69806,1593.3067 -285.83023,1589.1412 C -288.22352,1590.9438 -290.43085,1589.6589 -291.45158,1580.8947 C -288.22385,1581.8816 -283.99874,1560.0175 -279.7329,1551.8588 C -279.63519,1534.5448 -278.73683,1518.4049 -274.43998,1510.5398 C -271.82817,1519.7043 -272.27728,1519.8165 -269.26128,1534.413 C -266.48121,1520.8512 -266.85913,1520.5722 -264.31107,1511.6312 C -261.0152,1517.6641 -259.72175,1528.5699 -259.25136,1541.1349 C -258.91583,1540.5643 -258.51268,1539.9248 -257.97098,1539.1079 C -247.78927,1547.118 -256.68639,1575.0734 -250.11727,1582.4539 C -252.34328,1583.2525 -254.27659,1583.117 -255.96233,1582.3154 C -248.83446,1595.1144 -257.28972,1620.9589 -249.2129,1628.5025 C -253.52439,1629.7884 -257.06238,1629.0231 -259.97962,1626.9953 C -260.13953,1645.5426 -260.32022,1663.006 -257.36172,1670.7398 C -259.18953,1672.2656 -260.81992,1672.3184 -262.27862,1671.2596 C -261.84463,1682.7906 -263.83095,1696.1841 -259.47508,1701.0924 C -264.22354,1702.8009 -267.73701,1700.5229 -270.3608,1696.536 C -272.47919,1708.4735 -275.49415,1717.9191 -279.85665,1718.0531 z"
+         id="path2285"
+         inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+         inkscape:export-xdpi="43.801006"
+         inkscape:export-ydpi="43.801006" />
+    </g>
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cccc"
+       id="path2287"
+       d="M 343.81966,305.72638 L 336.25938,278.89797 L 351.18898,278.66819 L 343.81966,305.72638 z"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cccc"
+       id="path2289"
+       d="M 357.30449,314.35664 L 349.7442,287.52824 L 364.6738,287.29853 L 357.30449,314.35664 z"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cccc"
+       id="path2291"
+       d="M 367.55296,308.96271 L 359.99268,282.1343 L 374.92227,281.90459 L 367.55296,308.96271 z"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cccc"
+       id="path2293"
+       d="M 379.4196,313.81724 L 371.85932,286.98883 L 386.78892,286.75913 L 379.4196,313.81724 z"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cccc"
+       id="path2295"
+       d="M 403.15289,313.27784 L 395.59261,286.44943 L 410.52221,286.21972 L 403.15289,313.27784 z"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cccc"
+       id="path2297"
+       d="M 334.34188,312.14831 L 326.7816,285.3199 L 341.71119,285.09019 L 334.34188,312.14831 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cccc"
+       id="path2299"
+       d="M 391.28625,312.19904 L 383.72597,285.37071 L 398.65557,285.14092 L 391.28625,312.19904 z"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="czzzzzzz"
+       id="path2301"
+       d="M 448.09295,206.34881 C 431.63087,215.71116 432.26447,295.81247 400.01876,291.12229 C 368.30137,286.50894 362.21615,285.70103 336.472,291.8854 C 310.21762,298.19232 300.43104,216.15087 286.82195,203.82186 C 273.50642,191.75881 292.88648,172.67093 323.5689,136.84838 C 354.25132,101.02591 347.27716,141.09215 369.63656,140.36199 C 391.99597,139.63184 380.447,100.17043 413.00653,133.92775 C 445.56606,167.685 464.79179,196.85183 448.09295,206.34881 z"
+       style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cccccc"
+       id="path2303"
+       d="M 400.70243,290.84616 C 368.98501,286.23281 362.89979,285.4249 337.15565,291.60927 C 344.25855,226.14014 347.21082,199.73482 324.25252,136.57225 C 354.93495,100.74978 347.96076,140.81602 370.32023,140.08587 C 392.67962,139.35571 381.13065,99.8943 413.69016,133.65162 C 392.75398,214.48571 398.96152,258.66994 400.70243,290.84616 z"
+       style="fill:#225500;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       transform="matrix(0.62647,0,0,0.652446,267.0927,-184.8418)"
+       d="M 136.74763,557.89069 A 41.618843,40.627918 0 1 1 53.509941,557.89069 A 41.618843,40.627918 0 1 1 136.74763,557.89069 z"
+       sodipodi:ry="40.627918"
+       sodipodi:rx="41.618843"
+       sodipodi:cy="557.89069"
+       sodipodi:cx="95.128784"
+       id="path2305"
+       style="fill:#112b00;fill-opacity:1;stroke:none;stroke-width:7.24043655;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       transform="matrix(0.455516,0,0,0.474403,285.6018,-88.61452)"
+       d="M 136.74763,557.89069 A 41.618843,40.627918 0 1 1 53.509941,557.89069 A 41.618843,40.627918 0 1 1 136.74763,557.89069 z"
+       sodipodi:ry="40.627918"
+       sodipodi:rx="41.618843"
+       sodipodi:cy="557.89069"
+       sodipodi:cx="95.128784"
+       id="path2307"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:9.95775986;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       transform="matrix(0.769803,0,0,0.769803,270.9774,-201.0643)"
+       d="M 94.622404,496.98291 A 17.17668,16.573988 0 1 1 60.269045,496.98291 A 17.17668,16.573988 0 1 1 94.622404,496.98291 z"
+       sodipodi:ry="16.573988"
+       sodipodi:rx="17.17668"
+       sodipodi:cy="496.98291"
+       sodipodi:cx="77.445724"
+       id="path2309"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:6.01322699;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       transform="matrix(0.361553,0,0,0.387069,297.9246,-80.30912)"
+       d="M 107.01989,675.81073 A 16.845722,15.854797 0 1 1 73.328442,675.81073 A 16.845722,15.854797 0 1 1 107.01989,675.81073 z"
+       sodipodi:ry="15.854797"
+       sodipodi:rx="16.845722"
+       sodipodi:cy="675.81073"
+       sodipodi:cx="90.174164"
+       id="path2311"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:12.3739109;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cssss"
+       id="path2313"
+       d="M 354.88822,191.14128 C 360.6592,183.56542 353.30832,165.99389 340.18646,155.99823 C 327.0646,146.00257 308.17177,143.58285 302.40079,151.15879 C 296.62981,158.73473 316.30805,161.10149 329.4299,171.09707 C 342.55176,181.09273 349.11725,198.71722 354.88822,191.14128 z"
+       style="fill:#112b00;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cssss"
+       id="path2315"
+       d="M 346.57943,176.50001 C 350.06317,170.13489 342.55606,157.71736 331.56519,151.66478 C 320.57433,145.6122 306.09972,145.92474 302.61596,152.28978 C 299.13223,158.65482 314.19125,158.21357 325.18211,164.26615 C 336.17297,170.31865 343.09569,182.86505 346.57943,176.50001 z"
+       style="fill:#447821;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       transform="matrix(0.62647,0,0,0.652446,353.5686,-183.9354)"
+       d="M 136.74763,557.89069 A 41.618843,40.627918 0 1 1 53.509941,557.89069 A 41.618843,40.627918 0 1 1 136.74763,557.89069 z"
+       sodipodi:ry="40.627918"
+       sodipodi:rx="41.618843"
+       sodipodi:cy="557.89069"
+       sodipodi:cx="95.128784"
+       id="path2317"
+       style="fill:#112b00;fill-opacity:1;stroke:none;stroke-width:7.24043655;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       transform="matrix(-0.455516,0,0,0.474403,454.0511,-88.49674)"
+       d="M 136.74763,557.89069 A 41.618843,40.627918 0 1 1 53.509941,557.89069 A 41.618843,40.627918 0 1 1 136.74763,557.89069 z"
+       sodipodi:ry="40.627918"
+       sodipodi:rx="41.618843"
+       sodipodi:cy="557.89069"
+       sodipodi:cx="95.128784"
+       id="path2319"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:9.95775986;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       transform="matrix(-0.769803,0,0,0.769803,468.6754,-200.9462)"
+       d="M 94.622404,496.98291 A 17.17668,16.573988 0 1 1 60.269045,496.98291 A 17.17668,16.573988 0 1 1 94.622404,496.98291 z"
+       sodipodi:ry="16.573988"
+       sodipodi:rx="17.17668"
+       sodipodi:cy="496.98291"
+       sodipodi:cx="77.445724"
+       id="path2321"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:6.01322699;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       transform="matrix(-0.361553,0,0,0.387069,441.7282,-80.19057)"
+       d="M 107.01989,675.81073 A 16.845722,15.854797 0 1 1 73.328442,675.81073 A 16.845722,15.854797 0 1 1 107.01989,675.81073 z"
+       sodipodi:ry="15.854797"
+       sodipodi:rx="16.845722"
+       sodipodi:cy="675.81073"
+       sodipodi:cx="90.174164"
+       id="path2323"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:12.3739109;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cssss"
+       id="path2325"
+       d="M 384.76462,191.25944 C 378.99364,183.6835 386.34453,166.11198 399.46638,156.11632 C 412.58824,146.12074 431.48107,143.70101 437.25206,151.27688 C 443.02304,158.85282 423.34479,161.21958 410.22294,171.21516 C 397.10108,181.21082 390.5356,198.83531 384.76462,191.25944 z"
+       style="fill:#112b00;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="cssss"
+       id="path2327"
+       d="M 393.07341,176.6181 C 389.58967,170.25298 397.09678,157.83544 408.08765,151.78287 C 419.07851,145.73029 433.55313,146.04283 437.03689,152.40787 C 440.52062,158.77291 425.46159,158.33166 414.47073,164.38424 C 403.47987,170.43673 396.55716,182.98314 393.07341,176.6181 z"
+       style="fill:#447821;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="csssc"
+       id="path2329"
+       d="M 374.2473,270.62159 C 374.2473,273.89672 373.37133,276.55485 376.94426,276.55485 C 380.5172,276.55485 383.41698,273.89672 383.41698,270.62159 C 383.41698,267.34639 380.5172,264.68826 376.94426,264.68826 C 373.37133,264.68826 374.2473,267.34639 374.2473,270.62159 z"
+       style="fill:#112b00;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="43.801006"
+       inkscape:export-xdpi="43.801006"
+       inkscape:export-filename="/home/peterm/afbeeldingen/svg/drakonwall.png"
+       sodipodi:nodetypes="csssc"
+       id="path2331"
+       d="M 357.7484,271.70039 C 357.7484,274.9756 358.62438,277.63373 355.05144,277.63373 C 351.4785,277.63373 348.57872,274.9756 348.57872,271.70039 C 348.57872,268.42527 351.4785,265.76706 355.05144,265.76706 C 358.62438,265.76706 357.7484,268.42527 357.7484,271.70039 z"
+       style="fill:#112b00;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path2333"
+       d="M 483.58848,210.76479 C 475.74816,210.76479 468.96681,214.92888 465.7315,220.9673 C 464.99717,220.89186 464.25569,220.85668 463.49937,220.85668 C 452.5259,220.85668 443.61695,229.00758 443.61695,239.04974 C 443.61695,240.04894 443.70913,241.02498 443.87874,241.98053 C 435.20702,243.93829 428.76369,251.1114 428.76369,259.64828 C 428.76369,260.58043 428.84992,261.49096 428.99792,262.38555 C 428.85645,262.42404 428.71093,262.45483 428.57078,262.49609 C 425.05333,257.36658 418.82015,253.95258 411.71964,253.95258 C 408.77727,253.95258 405.99333,254.54641 403.48007,255.59765 C 400.28975,253.59824 396.43562,252.41806 392.27812,252.41806 C 381.30465,252.41806 372.3957,260.56889 372.3957,270.61112 C 372.3957,274.21803 373.55615,277.56999 375.5372,280.39886 C 378.68519,286.64812 385.57858,290.98842 393.58709,290.98842 C 394.0943,290.98842 394.59123,290.96756 395.08894,290.93315 C 396.94364,299.22062 404.95622,305.46272 414.55801,305.46272 C 419.18391,305.46272 423.44151,304.00602 426.82091,301.57806 C 430.46207,305.30483 435.75802,307.64696 441.64662,307.64696 C 449.8649,307.64696 456.931,303.07371 459.95829,296.55972 C 462.608,297.7573 465.58174,298.43981 468.73522,298.43981 C 479.7087,298.43981 488.61764,290.28898 488.61764,280.24682 C 488.61764,279.81881 488.59436,279.39557 488.56253,278.97495 C 495.62833,276.65415 500.82873,270.76039 501.61081,263.68505 C 510.21147,261.68248 516.58807,254.54988 516.58807,246.05879 C 516.58807,238.19064 511.11697,231.4932 503.47091,228.95785 C 503.47091,228.95316 503.47091,228.94869 503.47091,228.94399 C 503.46261,218.9083 494.55684,210.76479 483.58848,210.76479 z"
+       style="opacity:0.8;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path2335"
+       d="M 249.01615,212.29446 C 256.85647,212.29446 263.63782,216.45856 266.87313,222.49697 C 267.60746,222.42153 268.34895,222.38635 269.10526,222.38635 C 280.07873,222.38635 288.98769,230.53726 288.98769,240.57941 C 288.98769,241.57862 288.8955,242.55465 288.72589,243.51021 C 297.39762,245.46797 303.84094,252.64107 303.84094,261.17796 C 303.84094,262.11011 303.75472,263.02063 303.60672,263.91522 C 303.74818,263.95371 303.89371,263.9845 304.03385,264.02577 C 307.5513,258.89626 313.78448,255.48226 320.885,255.48226 C 323.82736,255.48226 326.61131,256.07609 329.12456,257.12733 C 332.31489,255.12792 336.16901,253.94774 340.32651,253.94774 C 351.29998,253.94774 360.20894,262.09856 360.20894,272.1408 C 360.20894,275.74771 359.04848,279.09966 357.06743,281.92853 C 353.91944,288.1778 347.02605,292.5181 339.01755,292.5181 C 338.51034,292.5181 338.0134,292.49724 337.51569,292.46283 C 335.661,300.75029 327.64841,306.9924 318.04662,306.9924 C 313.42073,306.9924 309.16312,305.5357 305.78372,303.10774 C 302.14257,306.83451 296.84661,309.17664 290.95801,309.17664 C 282.73974,309.17664 275.67364,304.60339 272.64634,298.08939 C 269.99663,299.28698 267.0229,299.96948 263.86942,299.96948 C 252.89594,299.96948 243.98699,291.81866 243.98699,281.7765 C 243.98699,281.34849 244.01027,280.92525 244.0421,280.50463 C 236.9763,278.18383 231.77591,272.29006 230.99382,265.21473 C 222.39316,263.21216 216.01656,256.07955 216.01656,247.58847 C 216.01656,239.72031 221.48767,233.02287 229.13373,230.48753 C 229.13373,230.48283 229.13372,230.47837 229.13373,230.47367 C 229.14202,220.43798 238.04779,212.29446 249.01615,212.29446 z"
+       style="opacity:0.8;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:4.62900019;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
