@@ -101,11 +101,10 @@ class MappingUnitsComponent extends Component {
     if (!unit) {
       return '';
     }
-    console.log(unit);
     return (
       <div className='units-info-container'>
         <div className='units-info-pict'>
-          <img src={unit.pictUrl} />
+          <img src={unit.pictUrl} alt='' />
         </div>
         <div className='units-info-class'>
           {classes[unit.class]}

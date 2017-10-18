@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router';
+import { hashHistory } from 'react-router';
 import { reactLocalStorage } from 'reactjs-localstorage';
 import './welcome.css';
 
@@ -22,18 +22,22 @@ class WelcomeComponent extends Component {
 
   submitName () {
     reactLocalStorage.set('userName', this.state.inputValue);
+    hashHistory.push('/game');
   }
 
   render () {
     return (
       <div className='welcome-content'>
+        <div className='welcome-header'>
+          <div className='welcome-logo'>
+            <img src='styles/images/logo.png' alt='' />
+          </div>
+        </div>
         <div className='welcome-body'>
-          <input value={this.state.inputValue} onChange={(e) => this.updateValue(e)} />
-          <Link to='/game'>
-            <button onClick={() => this.submitName()}>
-              Submit
-            </button>
-          </Link>
+          <form onSubmit={this.submitName} className='welcome-form'>
+            <input className='input-value' value={this.state.inputValue} onChange={this.updateValue} placeholder='Enter your name:' />
+            <input className='input-submit' type='submit' value='Submit' />
+          </form>
         </div>
       </div>
 

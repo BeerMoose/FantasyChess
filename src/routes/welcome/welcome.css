@@ -1,3 +1,26 @@
 .welcome-logo {
   text-align: center;
 }
+
+.welcome-form {
+  margin: 5% auto 0 auto;
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+}
+
+.welcome-body {
+  text-align: center;
+  margin: 20% 0;
+}
+
+.input-value {
+  height: 30px;
+  font-size: 25px;
+}
+
+.input-submit {
+  height: 30px;
+  font-size: 20px;
+  margin-top: 20px;
+}
